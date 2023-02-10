@@ -114,7 +114,12 @@ aren't and conjecture why not. If so, describe them and provide links. How well
 do they address the need? Are there any particularly admirable qualities of the
 language? Are there parts of the language you think could be improved?_
 
-
+There are Arduino simulation programs, but they are typically constrained to
+only showing circuits with pre-defined components.
+I believe it would be immensely helpful if it could be more open-ended allowing
+the user to define only the parts of the components that are necessary for the
+simulation which would require a lot less code maintenance, but also allow for
+predefined modules that could be shared between users (like libraries).
 
 ## The Project
 
